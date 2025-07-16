@@ -7,5 +7,8 @@ Integrated with Socket.io-client for real-time event communication with the back
 
 [👉 See preview here](https://rodolf0dsg.github.io/maps-app/)
 
+## 🔗 Backend
+[maps-app-server](https://github.com/Rodolf0dsg/maps-app-server)
+
 > Note: This project’s backend is maintained separately in a different repository and is not required for basic functionality or demo purposes.
 > No backend server is required to explore basic features.
